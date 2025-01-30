@@ -1,0 +1,60 @@
+Begin DDE Information.
+    Last DDE Source:	4
+Begin DDE Source Definition.
+    Source Name:		OPCUA
+    Application Name:		\\localhost\Gateway
+    Topic Name:			OPCUA_DeviceGroup
+    DDE Source ID:		3
+    Request Initial Data:	1
+    Always Advise:		0
+    SuiteLink:			1
+    Begin DDE Points
+    End DDE Points
+End DDE Source Definition.
+Begin DDE Source Definition.
+    Source Name:		OPC
+    Application Name:		\\localhost\Gateway
+    Topic Name:			OPC_DeviceGroup
+    DDE Source ID:		1
+    Request Initial Data:	1
+    Always Advise:		0
+    SuiteLink:			1
+    Begin DDE Points
+    End DDE Points
+End DDE Source Definition.
+Begin DDE Source Definition.
+    Source Name:		Galaxy
+    Application Name:		\\NA\NA
+    Topic Name:			NA
+    DDE Source ID:		2
+    Request Initial Data:	1
+    Always Advise:		0
+    SuiteLink:			3
+    Begin DDE Points
+    End DDE Points
+End DDE Source Definition.
+Begin DDE Source Definition.
+    Source Name:		HistdataViewstr
+    Application Name:		HistData
+    Topic Name:			ViewStream1
+    DDE Source ID:		4
+    Request Initial Data:	1
+    Always Advise:		0
+    SuiteLink:			0
+    Begin DDE Points
+        HDWStatus;0033:  Status
+        HDWError;0032:  Error
+        HDWWriteFile;0031:  WriteFile
+        HDWInterval;0030:  Interval
+        HDWTags2;002F:  Tags2
+        HDWTags1;002E:  Tags1
+        HDWTags;002D:  Tags
+        HDWStartTime;002B:  StartTime
+        HDWStartDate;002A:  StartDate
+        HDWFilename;0029:  Filename
+        HDWDuration;0028:  Duration
+        HDWDataDir;0027:  DataDir
+        HDWDBDir;0026:  DBDir
+    End DDE Points
+End DDE Source Definition.
+End DDE Information.

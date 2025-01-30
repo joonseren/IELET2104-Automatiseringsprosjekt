@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 52,
+  "VisualElementID": 810,
+  "GObjectId": 810,
+  "HelpId": "",
+  "VisualElementName": "AnalogHiLo",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827117959080269,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 7,
+  "VisualElementID": 1357,
+  "GObjectId": 1357,
+  "HelpId": "",
+  "VisualElementName": "MeasuringCylinder",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118529705000,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

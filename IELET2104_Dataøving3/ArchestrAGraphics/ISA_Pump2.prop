@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 10,
+  "VisualElementID": 1109,
+  "GObjectId": 1109,
+  "HelpId": "",
+  "VisualElementName": "ISA_Pump2",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118285344815,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

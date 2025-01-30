@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 6,
+  "VisualElementID": 914,
+  "GObjectId": 914,
+  "HelpId": "",
+  "VisualElementName": "ButtonSquareIlluminatedYellow",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118095706586,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

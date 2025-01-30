@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 4,
+  "VisualElementID": 1198,
+  "GObjectId": 1198,
+  "HelpId": "",
+  "VisualElementName": "PanelSteelPlate",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118371213639,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

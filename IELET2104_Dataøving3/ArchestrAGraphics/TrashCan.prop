@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 6,
+  "VisualElementID": 1324,
+  "GObjectId": 1324,
+  "HelpId": "",
+  "VisualElementName": "TrashCan",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118495812973,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

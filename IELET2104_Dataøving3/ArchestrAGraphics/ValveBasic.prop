@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 11,
+  "VisualElementID": 1288,
+  "GObjectId": 1288,
+  "HelpId": "",
+  "VisualElementName": "ValveBasic",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118460007005,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

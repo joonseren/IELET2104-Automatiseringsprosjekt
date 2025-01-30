@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 4,
+  "VisualElementID": 1310,
+  "GObjectId": 1310,
+  "HelpId": "",
+  "VisualElementName": "BellEnabled",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118482374608,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

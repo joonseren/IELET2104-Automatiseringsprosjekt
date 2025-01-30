@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 11,
+  "VisualElementID": 1245,
+  "GObjectId": 1245,
+  "HelpId": "",
+  "VisualElementName": "SSTankCylinderHorizFill",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118417205885,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

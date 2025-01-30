@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 17,
+  "VisualElementID": 1218,
+  "GObjectId": 1218,
+  "HelpId": "",
+  "VisualElementName": "PipeSSTeeLeft",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118390780858,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

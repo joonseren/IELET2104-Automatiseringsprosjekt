@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 16,
+  "VisualElementID": 853,
+  "GObjectId": 853,
+  "HelpId": "",
+  "VisualElementName": "ButtonGlossyBlue",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118038329527,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 3,
+  "VisualElementID": 1196,
+  "GObjectId": 1196,
+  "HelpId": "",
+  "VisualElementName": "PanelPolishedBrass",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118369422714,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

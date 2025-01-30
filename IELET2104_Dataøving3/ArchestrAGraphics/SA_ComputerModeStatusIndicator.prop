@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 31351000,
+  "VisualElementID": 1391,
+  "GObjectId": 1391,
+  "HelpId": "",
+  "VisualElementName": "SA_ComputerModeStatusIndicator",
+  "IsProtected": true,
+  "ContextObject": "",
+  "TimeStamp": 133827118606955254,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

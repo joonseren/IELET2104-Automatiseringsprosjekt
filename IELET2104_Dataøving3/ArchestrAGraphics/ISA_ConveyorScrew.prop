@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 13,
+  "VisualElementID": 988,
+  "GObjectId": 988,
+  "HelpId": "",
+  "VisualElementName": "ISA_ConveyorScrew",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118166928715,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 46,
+  "VisualElementID": 942,
+  "GObjectId": 942,
+  "HelpId": "",
+  "VisualElementName": "DigitalMeterRollingDigits",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133827118122515311,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}
